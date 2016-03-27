@@ -1,0 +1,31 @@
+.short_info {
+    width: 564px;
+    height: 308px;
+    float: left;
+    background-color: lightblue;
+    padding: 0px 10px;
+}
+
+.foto {
+    float: left;
+    height: 308px;
+
+}
+.main_info {
+    float: left;
+    width: 804px;
+    background-color: lightblue;
+    }
+a:hover {
+    color: seagreen;
+}
+
+h3 {
+    font-size: 20px;
+}
+li {
+    margin: 5px;
+}
+p {
+    margin: 5px;
+}
